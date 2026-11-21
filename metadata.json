@@ -1,0 +1,8 @@
+{
+  "name": "DENIO RADAR",
+  "description": "AI-powered competition discovery and automated source monitoring intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
